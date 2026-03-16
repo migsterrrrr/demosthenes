@@ -10,13 +10,13 @@
 >
 > *Instead of X or web browsing try this a couple of times a day and see where it goes. Not for the world but yourself.*
 
-A distraction-free writing mode for [pi](https://github.com/mariozechner/pi). Inspired by iA Writer and the Wiggin children from Ender's Game — who changed the world using nothing but their words. No AI in the editor. No syntax highlighting. No markdown preview. Just you and your thoughts, from keys into terminal.
+A distraction-free writing mode for [pi](https://github.com/badlogic/pi-mono). Inspired by iA Writer and the Wiggin children from Ender's Game — who changed the world using nothing but their words. No AI in the editor. No syntax highlighting. No markdown preview. Just you and your thoughts, from keys into terminal.
 
 ![demosthenes](screenshot.png)
 
 ## Install
 
-Requires [pi](https://github.com/mariozechner/pi).
+Requires [pi](https://github.com/badlogic/pi-mono).
 
 ```bash
 pi install git:git@github.com:migsterrrrr/demosthenes
